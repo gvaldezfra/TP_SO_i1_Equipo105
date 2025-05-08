@@ -1,3 +1,7 @@
 ALFA Valdez Guadalupe
 BETA Morante Agustina
 
+Respuestas:
+
+a- Si, puede verlos una vez que realizaron el push los demas integrantes.
+b- Si, si el mismo realiza el push correctamente.
