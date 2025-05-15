@@ -6,3 +6,5 @@ Respuestas:
 a- Si, puede verlos una vez que realizaron el push los demas integrantes.
 b- Si, si el mismo realiza el push correctamente.
 c- Sí, BETA pudo realizar el push de forma exitosa.
+d- Nos comunicamos mediante Discord, por chat y por canal de voz.
+e- La mejor forma es usando projects, asi vamos viendo que tareas faltan realizar o si el otro compañero terminó para continuar.
