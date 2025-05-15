@@ -5,3 +5,4 @@ Respuestas:
 
 a- Si, puede verlos una vez que realizaron el push los demas integrantes.
 b- Si, si el mismo realiza el push correctamente.
+c- Sí, BETA pudo realizar el push de forma exitosa.
